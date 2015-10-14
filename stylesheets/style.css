@@ -379,7 +379,7 @@ background-image: url(http://1.bp.blogspot.com/-UaMXnN5fKLg/VUscmmNqX3I/AAAAAAAA
 @media screen and (max-width : 480px) {
 /* CSS FOR MOBILES ------------*/
 .content{
-
+ margin: 0px;
 
 }
 
@@ -389,7 +389,7 @@ background-image: url(http://1.bp.blogspot.com/-UaMXnN5fKLg/VUscmmNqX3I/AAAAAAAA
 @media screen and (max-width : 320px) {
 /* CSS FOR SMALL OLD MOBILES ------------*/
 .wrap{
-
+ margin: 0px;
 }
 
 .nav ul{
