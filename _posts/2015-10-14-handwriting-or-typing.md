@@ -2,6 +2,8 @@
 layout: post
 title:  "Handwriting or Typing - Which Goes Better With Writing?"
 date:   2015-10-14 18:07:20
+permalink: "handwriting-or-typing"
+published: true
 categories: 
 ---
 
