@@ -2,6 +2,8 @@
 layout: post
 title:  "100 Books to Blog About"
 date:   2015-05-31 18:07:20
+permalink: "books-to-blog-about"
+published: true
 categories: 
 ---
 
