@@ -7,7 +7,7 @@ published: true
 categories: 
 ---
 
-![Hemmingway](handwriting-or-typing.jpg)
+![Hemmingway](../assets/handwriting-or-typing.jpg)
 
 Draft! Ernest Hemmingway advised writers to write with pencil. In an Esquire article he wrote he lays out the benefits of writing with the pencil over the typewriter. 
 

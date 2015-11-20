@@ -7,7 +7,7 @@ published: true
 categories: 
 ---
 
-![Moody](books-to-blog-about.png)
+![Moody](../assets/books-to-blog-about.png)
 
 For a long time I have been trying to accomplish two things. 1. Write a blog, and 2. Read the classics. Both I really want to do. 
 
