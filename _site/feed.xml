@@ -3,15 +3,15 @@
   <channel>
     <title>Dattaraj's Blog</title>
     <description>Portfolio of Dattaraj Pai.</description>
-    <link>http://www.dattarajpai.com/</link>
-    <atom:link href="http://www.dattarajpai.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Oct 2015 16:10:55 +0530</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 16:10:55 +0530</lastBuildDate>
+    <link>http://dattarajpai.com/</link>
+    <atom:link href="http://dattarajpai.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Nov 2015 18:56:29 +0530</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 18:56:29 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Handwriting or Typing - Which Goes Better With Writing?</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/12274440/10483868/47f7ca02-729f-11e5-82f2-2aa45fe0e458.jpg&quot; alt=&quot;Hemmingway&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;handwriting-or-typing.jpg&quot; alt=&quot;Hemmingway&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Draft! Ernest Hemmingway advised writers to write with pencil. In an Esquire article he wrote he lays out the benefits of writing with the pencil over the typewriter.&lt;/p&gt;
 
@@ -22,15 +22,15 @@
 &lt;p&gt;Work in progress!&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Oct 2015 23:37:20 +0530</pubDate>
-        <link>http://www.dattarajpai.com/handwriting-or-typing.html</link>
-        <guid isPermaLink="true">http://www.dattarajpai.com/handwriting-or-typing.html</guid>
+        <link>http://dattarajpai.com/handwriting-or-typing</link>
+        <guid isPermaLink="true">http://dattarajpai.com/handwriting-or-typing</guid>
         
         
       </item>
     
       <item>
         <title>100 Books to Blog About</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/12274440/7627374/674042d8-fa34-11e4-80c1-c37657f0bbf6.png&quot; alt=&quot;Moody&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;books-to-blog-about.png&quot; alt=&quot;Moody&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For a long time I have been trying to accomplish two things. 1. Write a blog, and 2. Read the classics. Both I really want to do.&lt;/p&gt;
 
@@ -51,8 +51,8 @@
 &lt;p&gt;Stay tuned!&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 May 2015 23:37:20 +0530</pubDate>
-        <link>http://www.dattarajpai.com/books-to-blog-about.html</link>
-        <guid isPermaLink="true">http://www.dattarajpai.com/books-to-blog-about.html</guid>
+        <link>http://dattarajpai.com/books-to-blog-about</link>
+        <guid isPermaLink="true">http://dattarajpai.com/books-to-blog-about</guid>
         
         
       </item>

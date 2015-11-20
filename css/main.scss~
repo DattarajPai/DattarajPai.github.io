@@ -268,7 +268,7 @@ img{
 .facebook:hover{background-image:url(../assets/icons/FB-hover.png);}
 .twitter:hover{background-image:url(../assets/icons/Twitter-hover.png);}
 .pinterest:hover{background-image:url(../assets/icons/pinterest-hover.png);}
-.googleplus:hover{background-image:url(../assets/icons/google-plus-hover.png);}
+.googleplus:hover{background-image:url(../assets/icons/Googleplus-hover.png);}
 
 
 
